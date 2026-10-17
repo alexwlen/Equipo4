@@ -4,12 +4,13 @@
 **Institución:** FIME — UANL  
 **Profesor:** Miguel Ángel Gómez Marroquín
 
-## Integrantes
+## Integrantes:
 
-| Integrante | Matrícula |
-| Lepe Rodríguez Angel Uriel | 2115842 |
-| López Guzmán Eder Abihú] | 2116464 |
-| Rodriguez Lara Alexia Guadalupe | 2117441 |
+Lepe Rodríguez Angel Uriel - 2115842
+
+López Guzmán Eder Abihú - 2116464 
+
+Rodriguez Lara Alexia Guadalupe - 2117441
 
 ## Alcance del sistema
 
